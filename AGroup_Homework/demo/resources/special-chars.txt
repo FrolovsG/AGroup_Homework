@@ -1,0 +1,1 @@
+[Many.cases, of ("special") symbols: used *for>    THE test\ this-word should be whole/ this and THIS%should -be separate-]
